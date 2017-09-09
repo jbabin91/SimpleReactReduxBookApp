@@ -5,7 +5,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/jbabin91/SimpleReactReduxBookApp.git
-> cd ReduxSimpleStarter
+> cd SimpleReactReduxBookAppit
 > npm install
 > npm start
 ```
